@@ -1,0 +1,23 @@
+{
+  "name": "typens",
+  "version": "1.0.0",
+  "description": "Integrate NeuralSpace Transliteration apis on input/textarea elements for phonetic typing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "Transliteration",
+    "Phonetic typing",
+    "Suggestion Typing",
+    "Typing suggestions"
+  ],
+  "author": "Psybro",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.6.0",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
