@@ -26,7 +26,7 @@ You can copy the auth code on the top right corner of the platform
 
 ## Installation
 
-### Install speakns 
+### Install typens 
 
 With npm
 
